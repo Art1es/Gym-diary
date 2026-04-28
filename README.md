@@ -83,7 +83,6 @@ All data is stored in the browser's `localStorage` using JSON:
 
 ## Roadmap
 
-- [ ] Connect Java Spring Boot backend (REST API + database)
 - [ ] Progress charts (weight over time per exercise)
 - [ ] Rest timer between sets
 - [ ] Edit existing workouts
